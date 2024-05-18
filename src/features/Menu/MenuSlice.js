@@ -37,6 +37,6 @@ export default MenuSlice.reducer;
 
 
 export const fetchMenu = createAsyncThunk("FETCH/MENU" , async()=>{
-    const response = await axios.get('https://subway-koid.onrender.com/pizza)
+    const response = await axios.get('https://subway-koid.onrender.com/pizza')
     return response.data;
 })
