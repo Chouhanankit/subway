@@ -96,7 +96,7 @@ const Menuherosection = () => {
         </div>
       </div>
 
-      <p className="py-10 bg-black text-white ">All Right Reserved Akshay Nagdiya</p>
+      <p className="py-10 bg-black text-white ">All Right Reserved Ankit Chouhan</p>
     </div>
   );
 };

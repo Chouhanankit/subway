@@ -53,7 +53,7 @@ const Homeherosection = () => {
           <iframe style={{width:'120vh' , height:'70vh' , borderRadius:'20px'}} src="https://www.youtube.com/embed/9KWjPD3r-fU?rel=0" title="Subway Hotsellers | Just point, pick and enjoy." allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" className="video"></iframe>
           </div>
           <div className=' bg-white text-center py-6 md:text-xl font-semibold'>
-          <h5 className=''>All rights reserved. Akshay Nagdiya</h5>
+          <h5 className=''>All rights reserved. Ankit Chouhan</h5>
           </div>
       </div>
     </>

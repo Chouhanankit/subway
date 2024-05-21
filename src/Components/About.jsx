@@ -32,7 +32,7 @@ const About = () => {
             Makwana Road, Marol, Andheri East,
             Mumbai – 400059, Maharashtra
         </p>
-        <p className='text-white font-semibold mt-6 pt-2 border-t-2 border-yellow-400 xl:text-[18px] lg:text-[15px] md:text-[12px] '>All rights reserved. Akshay Nagdiya</p>
+        <p className='text-white font-semibold mt-6 pt-2 border-t-2 border-yellow-400 xl:text-[18px] lg:text-[15px] md:text-[12px] '>All rights reserved. Ankit Chouhan</p>
       </div>
       
     </div>
